@@ -3,17 +3,17 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 ## Wallets
 
-Ord wallet - https://github.com/casey/ord - https://docs.ordinals.com/
-Sparrow - https://sparrowwallet.com - https://gist.github.com/windsok/5b53a1ced6ef3eddbde260337de28980
-Xverse - https://xverse.app/
+* Ord wallet - https://github.com/casey/ord - https://docs.ordinals.com/
+* Sparrow - https://sparrowwallet.com - https://gist.github.com/windsok/5b53a1ced6ef3eddbde260337de28980
+* Xverse - https://xverse.app/
 
 ## Exchanges
 
-Gamma - https://gamma.io/
-OrdSwap - https://ordswap.io/
-Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
+* Gamma - https://gamma.io/
+* OrdSwap - https://ordswap.io/
+* Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
 
 ## Communities
 
-Ordinals - https://discord.gg/ordinals
-Stacks - https://stacks.chat/
+* Ordinals - https://discord.gg/ordinals
+* Stacks - https://stacks.chat/
