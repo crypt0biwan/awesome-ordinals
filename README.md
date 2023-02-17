@@ -1,4 +1,4 @@
-# Ordinals overview
+# Awesome Ordinals
 This repo was created to have a nice overview of ordinals stuff out there. Please contact me on [Twitter](https://twitter.com/crypt0biwan) if you think something should be added to this repo 😊👌
 
 ⚠️ DISCLAIMER: Anything you do after this is 100% on you. Any lost funds, failed investments, or other unforeseen consequences are 100% on you. I am not responsible in any way. Turn away if you do not accept 100% responsibility. ⚠️
