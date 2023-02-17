@@ -1,6 +1,9 @@
 # Ordinals overview
 This repo was created to have a nice overview of ordinals stuff out there. Please contact me on [Twitter](https://twitter.com/crypt0biwan) if you think something should be added to this repo 😊👌
 
+## Ordinals overview
+* Ordinals.com (where it all started) - https://ordinals.com
+
 ## Wallets
 
 * Ord wallet - https://github.com/casey/ord - https://docs.ordinals.com/
