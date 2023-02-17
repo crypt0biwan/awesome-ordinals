@@ -31,6 +31,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 ## Directories
 
+* Ordb - https://ordb.xyz/
 * OrdinalHub - https://ordinalhub.com
 * Ordinals Directory - https://ordinalsdirectory.com
 
