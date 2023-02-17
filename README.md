@@ -12,11 +12,12 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 * Sparrow - https://sparrowwallet.com - https://gist.github.com/windsok/5b53a1ced6ef3eddbde260337de28980
 * Xverse - https://xverse.app/
 
-## Exchanges
+## Exchanges / Marketplaces
 
 * Gamma - https://gamma.io/
 * OrdSwap - https://ordswap.io/
 * Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
+* Ordina.ls - https://ordina.ls
 
 ## Communities
 
@@ -27,3 +28,8 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 * InscribeNow - https://inscribenow.io/
 * OrdinalsBot - https://ordinalsbot.com/
+
+## Directories
+
+* OrdinalHub - https://ordinalhub.com
+* Ordinals Directory - https://ordinalsdirectory.com
