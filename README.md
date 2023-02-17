@@ -20,3 +20,8 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 * Ordinals - https://discord.gg/ordinals
 * Stacks - https://stacks.chat/
+
+## Inscribe tools
+
+* InscribeNow - https://inscribenow.io/
+* OrdinalsBot - https://ordinalsbot.com/
