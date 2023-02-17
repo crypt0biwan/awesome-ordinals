@@ -33,3 +33,8 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 * OrdinalHub - https://ordinalhub.com
 * Ordinals Directory - https://ordinalsdirectory.com
+
+## Art
+
+* Generative.xyz - https://generative.xyz/
+* /imagine/ - https://twitter.com/imgordinals
