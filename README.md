@@ -27,6 +27,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 ## Inscribe tools
 
 * InscribeNow - https://inscribenow.io/
+* Inscribe.art - https://inscribe.art/
 * OrdinalsBot - https://ordinalsbot.com/
 
 ## Directories
