@@ -16,8 +16,9 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 * Gamma - https://gamma.io/
 * OrdSwap - https://ordswap.io/
-* Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
 * Ordina.ls - https://ordina.ls
+* Ordinals Market - https://ordinals.market/
+* Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
 
 ## Communities
 
@@ -28,6 +29,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 * InscribeNow - https://inscribenow.io/
 * Inscribe.art - https://inscribe.art/
+* Ordimint - https://ordimint.com/
 * OrdinalsBot - https://ordinalsbot.com/
 
 ## Directories
