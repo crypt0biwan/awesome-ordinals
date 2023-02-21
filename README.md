@@ -14,7 +14,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 ## Exchanges / Marketplaces
 
-* Gamma - https://gamma.io/
+* Gamma - https://gamma.io/ (⚠️ BEWARE, Gamma compresses images by a LOT! ⚠️)
 * OrdSwap - https://ordswap.io/
 * Ordina.ls - https://ordina.ls
 * Ordinals Market - https://ordinals.market/
