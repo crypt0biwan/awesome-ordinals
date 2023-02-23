@@ -27,6 +27,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 
 ## Inscribe tools
 
+* Ordinals Minter - https://mint-ordinal.com
 * InscribeNow - https://inscribenow.io/
 * Inscribe.art - https://inscribe.art/
 * Ordimint - https://ordimint.com/
