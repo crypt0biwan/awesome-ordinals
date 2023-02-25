@@ -32,6 +32,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Pleas
 * Inscribe.art - https://inscribe.art/
 * Ordimint - https://ordimint.com/
 * OrdinalsBot - https://ordinalsbot.com/
+* OrdSwap - https://inscribe.ordswap.io/
 
 ## Directories
 
