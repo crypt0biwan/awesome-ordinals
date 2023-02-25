@@ -47,3 +47,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 * Generative.xyz - https://generative.xyz/
 * /imagine/ - https://twitter.com/imgordinals
+
+## Analytics
+
+* Dune - https://dune.com/dataalways/ordinals
