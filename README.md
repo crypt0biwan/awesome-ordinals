@@ -44,6 +44,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * Ordb - https://ordb.xyz/
 * OrdinalHub - https://ordinalhub.com
 * Ordinals Directory - https://ordinalsdirectory.com
+* Ordynals - https://ordynals.com/
 * Rare Ordinal Directory - http://rareordinal.directory/
 
 ## Art
