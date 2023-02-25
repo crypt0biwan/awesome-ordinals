@@ -57,3 +57,11 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 ## Tech
 
 * Ord API - https://ordapi.xyz/
+
+## Early projects
+
+| Name | First inscription | Last inscription | Supply | Link |
+|---|---|---|---|---|
+| Bitcoin Rocks | 71 | 161 | 100 | https://twitter.com/ordrocks |
+| Timechain Collectibles | 357 | 377 | 21 | https://twitter.com/timechainord |
+| Ordinal Punks | 407 | 642 | 100 | https://twitter.com/OrdinalPunks |
