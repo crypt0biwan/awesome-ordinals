@@ -11,6 +11,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * Hiro wallet - https://wallet.hiro.so/
 * Nosft - https://nosft.xyz/
 * Ord wallet - https://github.com/casey/ord - https://docs.ordinals.com/
+* Ordinals wallet - https://ordinalswallet.com/
 * Sparrow - https://sparrowwallet.com - https://gist.github.com/windsok/5b53a1ced6ef3eddbde260337de28980
 * Xverse - https://xverse.app/
 
@@ -65,3 +66,6 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 | Bitcoin Rocks | 71 | 161 | 100 | https://twitter.com/ordrocks |
 | Timechain Collectibles | 357 | 377 | 21 | https://twitter.com/timechainord |
 | Ordinal Punks | 407 | 642 | 100 | https://twitter.com/OrdinalPunks |
+| Planetary Ordinals | 463 | 1103 | 69 | https://twitter.com/ordinalswallet |
+| Ordinal Punks | 715 | 923 | 210 | https://twitter.com/BitcoinShrooms |
+| CyberPepes | 934 | 943 | 10 | https://twitter.com/finestrares |
