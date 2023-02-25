@@ -63,7 +63,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 | Name | First inscription | Last inscription | Supply | Link |
 |---|---|---|---|---|
-| Bitcoin Rocks | 71 | 161 | 100 | https://twitter.com/ordrocks |
+| Bitcoin Rocks | 71 | 247 | 100 | https://twitter.com/ordrocks |
 | Timechain Collectibles | 357 | 377 | 21 | https://twitter.com/timechainord |
 | Ordinal Punks | 407 | 642 | 100 | https://twitter.com/OrdinalPunks |
 | Planetary Ordinals | 463 | 1103 | 69 | https://twitter.com/ordinalswallet |
