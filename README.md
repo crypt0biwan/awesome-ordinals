@@ -29,7 +29,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 ## Inscribe tools
 
-* Gamma - https://gamma.io/ (⚠️ BEWARE, Gamma compresses images by a LOT! ⚠️)
+* Gamma - https://gamma.io/ordinals (⚠️ BEWARE, Gamma compresses images by a LOT! ⚠️)
 * Generative_xyz - https://generative.xyz/inscribe
 * InscribeNow - https://inscribenow.io/
 * Inscribe.art - https://inscribe.art/
