@@ -68,5 +68,5 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 | Timechain Collectibles | 357 | 377 | 21 | https://twitter.com/timechainord |
 | Ordinal Punks | 407 | 642 | 100 | https://twitter.com/OrdinalPunks |
 | Planetary Ordinals | 463 | 1103 | 69 | https://twitter.com/ordinalswallet |
-| Ordinal Punks | 715 | 923 | 210 | https://twitter.com/BitcoinShrooms |
+| Bitcoin Shrooms | 715 | 923 | 210 | https://twitter.com/BitcoinShrooms |
 | CyberPepes | 934 | 943 | 10 | https://twitter.com/finestrares |
