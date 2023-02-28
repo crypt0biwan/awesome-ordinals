@@ -64,6 +64,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 * Ordinal Chains by rudxane - https://img.art/collection/rudxane-ordinalchains/
 * Ordinal Shapes by obi - https://crypt0biwan.github.io/OrdinalShapes/
+* Strokes by zond - https://img.art/collection/zond-strokes/
 
 ## Early projects
 
