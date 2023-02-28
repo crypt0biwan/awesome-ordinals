@@ -60,6 +60,11 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 * Ord API - https://ordapi.xyz/
 
+## Genart projects
+
+* Ordinal Chains by rudxane - https://img.art/collection/rudxane-ordinalchains/
+* Ordinal Shapes by obi - https://crypt0biwan.github.io/OrdinalShapes/
+
 ## Early projects
 
 | Name | First inscription | Last inscription | Supply | Link |
