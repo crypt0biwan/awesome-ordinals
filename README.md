@@ -38,6 +38,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * InscribeNow - https://inscribenow.io/
 * Inscribe.art - https://inscribe.art/
 * Ordimint - https://ordimint.com/
+* Ordinals Minter - https://mint-ordinal.com/
 * OrdinalsBot - https://ordinalsbot.com/
 * OrdSwap - https://inscribe.ordswap.io/
 
