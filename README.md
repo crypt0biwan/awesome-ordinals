@@ -12,6 +12,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * Nosft - https://nosft.xyz/
 * Ord wallet - https://github.com/casey/ord - https://docs.ordinals.com/
 * Ordinals wallet - https://ordinalswallet.com/
+* Ordimint wallet - https://ordimint.com/wallet
 * Sparrow - https://sparrowwallet.com - https://gist.github.com/windsok/5b53a1ced6ef3eddbde260337de28980
 * Xverse - https://xverse.app/
 
@@ -47,6 +48,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * Ordb - https://ordb.xyz/
 * OrdinalHub - https://ordinalhub.com
 * Ordinals Directory - https://ordinalsdirectory.com
+* Ordimint Collections - https://ordimint.com/collections
 * Ordynals - https://ordynals.com/
 * Rare Ordinal Directory - http://rareordinal.directory/
 
