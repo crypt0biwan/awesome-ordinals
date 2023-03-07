@@ -18,6 +18,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 ## Exchanges / Marketplaces
 
 * Gamma - https://gamma.io/
+* OpenOrdex - https://openordex.org/
 * OrdSwap - https://ordswap.io/
 * Ordina.ls - https://ordina.ls
 * Ordinals Market - https://ordinals.market/
