@@ -64,6 +64,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 ## Tech
 
+* Hiro Ordinal API - https://docs.hiro.so/ordinals
 * Ord API - https://ordapi.xyz/
 * Sats Names API - https://docs.sats.id/buildooors/indexer-and-api
 
