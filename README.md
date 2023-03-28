@@ -70,6 +70,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 * Hiro Ordinal API - https://docs.hiro.so/ordinals
 * Ord API - https://ordapi.xyz/
+* Ordinal Novus (former Ordscan) search tool - https://ordinalnovus.com/
 * Sats Names API - https://docs.sats.id/buildooors/indexer-and-api
 
 ## Genart projects
