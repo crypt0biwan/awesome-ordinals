@@ -64,7 +64,9 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 ## Analytics
 
-* Dune - https://dune.com/dataalways/ordinals
+* Bitcoin Ordinals Analysis - https://dune.com/dgtl_assets/bitcoin-ordinals-analysis
+* Ordinals Marketplaces - https://dune.com/domo/ordinals-marketplaces
+* Ordinals Sats Names - https://dune.com/domo/ordinals-sats-names
 
 ## Tech
 
