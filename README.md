@@ -19,6 +19,9 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 ## Exchanges / Marketplaces
 
 * Gamma - https://gamma.io/
+* Generative.xyz - https://generative.xyz/
+* Luminex - https://luminex.io/
+* Magic Eden - https://magiceden.io/ordinals
 * OpenOrdex - https://openordex.org/
 * OrdSwap - https://ordswap.io/
 * Ordina.ls - https://ordina.ls
@@ -43,6 +46,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * Ordinals Minter - https://mint-ordinal.com/
 * OrdinalsBot - https://ordinalsbot.com/
 * OrdSwap - https://inscribe.ordswap.io/
+* Unisat - https://unisat.io/inscribe
 
 ## Directories
 
