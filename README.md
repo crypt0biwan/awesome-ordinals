@@ -31,6 +31,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 * OrdSea - https://www.ordsea.io/
 * OrdSwap - https://ordswap.io/
 * Scarce City - https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
+* Unisat - https://unisat.io/market
 
 ## Communities
 
