@@ -52,6 +52,7 @@ This repo was created to have a nice overview of ordinals stuff out there. Lists
 
 ## Directories
 
+* Ord.io - https://www.ord.io/
 * Ordb - https://ordb.xyz/
 * Ordimint Collections - https://ordimint.com/collections
 * OrdinalHub - https://ordinalhub.com
